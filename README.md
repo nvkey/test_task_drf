@@ -14,8 +14,8 @@
     - Название
     - Порядковый номер в альбоме
 
-Одна и та же песня может быть включена в несколько альбомов, но под разными порядковыми номерами.
-В качестве площадки для демонстрации АПИ подключите к нему Swagger, чтобы можно было проверить работу АПИ через Postman.
+Одна и та же песня может быть включена в несколько альбомов, но под разными порядковыми номерами.⋅⋅
+В качестве площадки для демонстрации АПИ подключите к нему Swagger, чтобы можно было проверить работу АПИ через Postman.⋅⋅
 Результат присылайте в виде репозитория в GitHub с инструкцией по запуску. Бонусом будет, если проект будет запускаться через docker compose.
 
 ## Запуск проекта(Docker):
@@ -56,8 +56,6 @@ docker compose up -d --build
 docker compose exec web python manage.py migrate
 docker compose exec web python manage.py collectstatic --no-input 
 ```
-Проект: http://localhost/api/v1
-
-Swagger API: http://localhost/swagger/
-
+Проект: http://localhost/api/v1⋅⋅
+Swagger API: http://localhost/swagger/⋅⋅
 Redoc: http://localhost/redoc
