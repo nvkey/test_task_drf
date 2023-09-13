@@ -19,4 +19,5 @@ jobs:
           poetry install --no-root
 
       - name: Test with flake8
-        run: flake8
+        run: |
+          flake8
