@@ -20,4 +20,4 @@ jobs:
 
       - name: Test with flake8
         run: |
-          flake8
+          poetry run flake8
