@@ -1,4 +1,4 @@
-#Test tsk DRF
+# Test task DRF
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![DRF CI](https://github.com/nvkey/test_task_drf/actions/workflows/workflow.yml/badge.svg)
 
