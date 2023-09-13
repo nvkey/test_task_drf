@@ -1,0 +1,7 @@
+[
+{"name": "Python", "artist_id": 1, "year":2000},
+{"name": "Git", "artist_id": 1, "year":1999},
+{"name": "Django", "artist_id": 1, "year":2003},
+{"name": "PostgreSQL", "artist_id": 2, "year":2004},
+{"name": "IO bound", "artist_id": 3, "year":2003}
+]
